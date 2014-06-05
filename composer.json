@@ -24,9 +24,15 @@
             "homepage": "https://github.com/paranoia/paranoia/contributors"
         }
     ],
-    "autoload": {
-        "psr-0": {
-            "Paranoia": "/"
+   "autoload": {
+        "psr-0" : {
+            "" : "/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
         }
     }
+   
 }
