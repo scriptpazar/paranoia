@@ -1,16 +1,16 @@
 {
     "estbank": {
         "adapter": "Est",
-        "api_url": "https://testsanalpos.est.com.tr/servlet/cc5ApiServer",
-        "client_id": "700100000",
-        "username": "ISBANKAPI",
-        "password": "ISBANK07",
+        "api_url": "https://entegrasyon.asseco-see.com.tr/fim/api",
+        "client_id": "400000100",
+        "username": "TEB",
+        "password": "TEBTEB04",
         "mode": "T",
         "testcard": {
             "number": "5406675406675403",
             "cvv": "000",
             "expire_month": "12",
-            "expire_year": "2015"
+            "expire_year": "2016"
         },
         "currencyCodes": {
             "TRY": 949,
